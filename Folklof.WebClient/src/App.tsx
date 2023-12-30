@@ -25,6 +25,9 @@ function App() {
       <h1>Najmy was here duaa</h1>
       <h1>Najmy was here tiga</h1>
       <h1>Najmy was here empat</h1>
+      <h1>Najmy was here lima</h1>
+      <h1>Najmy was here enam</h1>
+      
 
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
