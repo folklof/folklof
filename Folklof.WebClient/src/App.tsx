@@ -22,7 +22,7 @@ function App() {
       <h1>pler</h1>
       <h1>Yuza was here. Revised</h1>
       <h1>Najmy was here</h1>
-      <h1>Najmy was here dua</h1>
+      <h1>Najmy was here duaa</h1>
 
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
